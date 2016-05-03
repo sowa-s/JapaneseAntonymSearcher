@@ -1,0 +1,2 @@
+# JapaneseAntonymSearcher
+日本語用の対義語検索モジュール
