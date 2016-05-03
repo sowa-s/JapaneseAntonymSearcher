@@ -32,7 +32,3 @@ class AntonymDicMaker:
 		f = open(filename,'w')
 		pickle.dump(self.antonyDic,f)
 		f.close()
-
-if __name__ == '__main__':
-	s = JapaneseAntonym()	
-	print s.getAntonym("勝ち")[0]
